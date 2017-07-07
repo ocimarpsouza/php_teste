@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "hello word!"
+            echo "este é o meu primeiro projeto usando o netbenas"
         ?>
     </body>
 </html>
